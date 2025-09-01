@@ -1,6 +1,7 @@
 \# FONTS - KIESTER
 
-  this folder will be used to store webfont: Kiester from FontSpring
+  this folder will be used to store webfonts from FontSpring
+
 
 
 
