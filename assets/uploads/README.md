@@ -1,8 +1,7 @@
-\# Media Folder
+\# FONTS - KIESTER
 
+  this folder will be used to store webfont: Kiester from FontSpring
 
-
-This folder will contain media uploads created via Decap CMS.
 
 
 
